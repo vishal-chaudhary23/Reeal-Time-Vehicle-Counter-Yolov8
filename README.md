@@ -4,6 +4,9 @@
 ![Vehicle Counting Demo](demo.png)
 
 
+![Vehicle Detection Demo](demo.png)
+
+
 ## Overview
 
 This project performs real-time vehicle detection, tracking, and counting from traffic videos using YOLOv8 and the SORT tracking algorithm.
