@@ -4,7 +4,9 @@
 ![Vehicle Counting Demo](demo.png)
 
 
-![Vehicle Detection Demo](demo.png)
+
+
+![Vehicle Detection Demo](Vehicle_Detection.png)
 
 
 ## Overview
